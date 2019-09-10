@@ -2,12 +2,21 @@
 
 ## 從零到一學習程式的記錄
 
-- 關於程式與技術的部分：我在 [這裡](https://github.com/twgd/mentor-program-note/issues) 記錄「程式導師實驗計畫第二期」學習的心得。 
-- 關於學習方法的部分：
+### Mentorship program
+
+### [技術相關筆記](https://github.com/twgd/note/issues?q=is%3Aissue+is%3Aopen+label%3A%E6%8A%80%E8%A1%93%E7%9B%B8%E9%97%9C) 
+
+### [學習心得](https://github.com/twgd/note/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%AD%B8%E7%BF%92%E5%BF%83%E5%BE%97)
+
+- [程式導師計畫第二期結業心得](https://github.com/twgd/note/issues/14)
+
+　
+　
 
 ## 關於我
-在報名程式導師實驗計畫之前，我是一個幾乎零程式基礎的人，大學也不是修習理工相關學位。
-目前參加 [Lidemy](https://www.lidemy.com) 的 [程式導師實驗計畫第二期](https://github.com/Lidemy/mentor-program-2nd)，以轉職成為「網頁工程師」為目標學習。
+新手前端工程師。擁抱 JavaScript 的原貌。
+
+2018 年九月加入 [Lidemy](https://www.lidemy.com) 的 [程式導師實驗計畫第二期](https://github.com/Lidemy/mentor-program-2nd)，成功轉職「前端工程師」。
 
 ### 其他連結
-程式導師實驗計畫第二期 [課程教材與我的實作成果](https://github.com/Lidemy/mentor-program-2nd-twgd)
+- 程式導師實驗計畫第二期 [課程教材與我的實作成果](https://github.com/Lidemy/mentor-program-2nd-twgd)
