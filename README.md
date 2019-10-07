@@ -1,7 +1,7 @@
 # 我的從零到一學習部落格
 
 ## Mentorship Program
-- [時程大綱](https://github.com/twgd/note/blob/master/mentorship_program/main.md)
+- [時程大綱](https://github.com/twgd/note/blob/master/mentorship-program/main.md)
 
 ## 技術相關筆記
 [全部文章](https://github.com/twgd/note/issues?q=is%3Aissue+is%3Aopen+label%3A%E6%8A%80%E8%A1%93%E7%9B%B8%E9%97%9C) 

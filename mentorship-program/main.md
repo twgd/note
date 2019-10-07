@@ -45,19 +45,19 @@
 
 
 ### Week7：(0930 ~ 1006)
-[x] 影片教材：[Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
-  [x] Introduction
-  [x] Types
-  - Coercion
-  - Philosophy of Coercion
-- 本週課程筆記
+- [x] 影片教材：[Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
+  - [x] Introduction
+  - [x] Types
+  - [ ] Coercion
+  - [ ] Philosophy of Coercion
+- [ ] 本週課程筆記
 　
 
 ### Week8：(1007 ~ 1013)
-- 影片教材：[Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
-  - Equality
-  - Static Typing
-- 本週課程筆記
+- [ ] 影片教材：[Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
+  - [ ] Equality
+  - [ ] Static Typing
+- [ ] 本週課程筆記
 
 
 ### Week9：(1014 ~ 1020)
