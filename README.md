@@ -1,3 +1,10 @@
+‼️ 注意：這個 repo 已封存，內容已搬遷到我的個人網站：[twgd.me](https://www.twgd.me/)
+
+　
+　
+
+---
+
 # 我的從零到一學習部落格
 
 ## Mentorship Program
